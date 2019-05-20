@@ -3,7 +3,7 @@ CV and certificates
 
 Relevant CV and certificates.
 
-DataCamp Datascientist carreer path certificate : 
+DataCamp Datascientist carreer path certificate : <br> <br>
 	Introduction to Python : Pandas, Numpy, Sciki-learn, Keras
 	Introduction to SQL : SQL alchemy library for Python
 	Fundamentals in Inferential Statistics and Machine Learning
